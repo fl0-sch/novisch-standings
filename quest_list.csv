@@ -1,0 +1,233 @@
+quest_number;quest_description;quest_value;quest_repeat;quest_owner
+1;Juggle fruits! (1p per fruit);1;single;none
+2;Roll down a hill (1p per person);1;multiple;none
+3;Have a race up sankt hans backar (1p per person);1;single;none
+4;Paint your nails in your student council colour (1p per person);1;single;none
+5;Recycle cans/bottles (panta) (1p for every 4th can);1;multiple;none
+6;Wear your lab coat to a lecture (1p per person);1;multiple;glufs,
+7;High Five with a pizza baker - (points for different pizza bakers);2;multiple;none
+8;Hug a counselor (kurator, nation or not) – (points after the number of counselors);5;multiple;none
+9;Bathe in a fountain - (points for different fountains) (Not Lundagård);5;multiple;none
+10;Work out at the outdoor gym in winter clothing;5;single;none
+11;Perform a spex on Spexarevägen ;5;single;none
+12;Bribe mentors with a cake;5;single;none
+13;Make posters for a non-existing course;5;single;none
+14;Be BFFs with a professor;5;single;none
+15;Take pictures of a student dormitory (points after how gross it looks);5;single;none
+16;If Finn exists, find Finn;5;single;none
+17;Create a massive lab coat;5;single;none
+18;Fence with the bulls;5;single;none
+19;Forage for Potatoes;5;single;none
+20;Question middle school students about what is ''cool'' in school playgrounds in Lund today;5;single;none
+21;Build a human pyramid;5;single;none
+22;Sing a song to one of the full timers from the song book ;5;single;none
+23;Write ''Luna'' with new students, score after the size;5;single;none
+24;Bug with a BUG. (Can not be performed by BUG);5;single;none
+25;Pherform ''Physical'' physically with a physicist. (Can not be performed by GLUFS);5;single;none
+26;Feed a mathematician. (Can not be performed by LEMUR);5;single;none
+27;Bury a geologist (as long as they get air). (Can not be performed by SNYS);5;single;none
+28;Adopt a pet rock;5;single;none
+29;Go sledding down Sölvegatan (Fysicum to Kalmar Nation);5;single;none
+30;Obtain a saber (sabel) and acquire a horse;5;single;none
+31;Find the mountain troll at Trollebergsvägen;5;single;none
+32;Roundabout Rave!;5;single;none
+33;The cake is a lie!;5;single;none
+34;Borrow a weird book at UB;5;single;none
+35;Find a spanish bear;5;single;none
+36;Help a lady across the street;5;single;none
+37;Go where pepper grows;5;single;none
+38;Stand statue in the city park;5;single;none
+39;Skip rope with a giraffe;5;single;none
+40;Make a suuuuuper looooong (jäääääääääättelång) spoon;5;single;none
+41;Play ''rock, paper, scissor'' in three languages at the same time;5;single;none
+42;Solve a math problem(high difficulty!!), in a sandbox;5;single;none
+43;Play a kids show anthem on glass bottles;5;single;none
+44;Make a somersault to get inside Wermlands nation;5;single;none
+45;Prove that the high ground is superior;5;single;none
+46;Order a Royal with cheese;5;single;none
+47;Become a shooting star;5;single;none
+48;Find an old member of the Mentor Committee (GoDs);5;single;none
+49;Perform photoception (the more the better);5;single;none
+50;Pet cute cats;5;single;none
+51;Preach about the ”Santa religion” at Stortorget;5;single;none
+52;Eat tuna at Tunavägen;5;single;none
+53;Create a beautiful painting at Målarevägen;5;single;none
+54;Hang up your own painting in a museum;5;single;none
+55;Bake LUNA buns;5;single;none
+56;Find the building that changes colour;5;single;none
+57;Find the Student Health Centre (you don't have to book an appointment and don't bring the mascot inside);5;single;none
+58;Dance ringdance in Stortorget, Mårtenstorget and Clemenstorget! (Preferably simultaneously);5;single;none
+59;Consume sugar outside the sugar mill;5;single;none
+60;Drink the red drink from Shell (or Circle K);5;single;none
+61;Burn red houses, hit little children and say bad words (Note, do not break the law!);5;single;none
+62;Explore the faculty, find all student council rooms!;5;single;none
+63;What is Jack Stauber really saying in Buttercup?;5;single;none
+64;Eat forbidden fruit in paradise;5;single;none
+65;Hold the door;5;single;none
+66;Spell out your team's name with new students;5;single;none
+67;Capture a Pokemon Gym with a Pokemon with your team's name;5;single;none
+68;Down raspberry soda in Halland hall. (Halsa hallonsoda i Hallands hall);5;single;none
+69;Go super Saiyan!!! (extra points for high power levels);5;single;none
+70;iGWqyYLerA+VcCk+7myGRkafucLrXdhcps9/YPg7uw1ycBJozbB9ndW9pvCTz623V84et6jDkAjfV9VGQTkj+Q==;5;single;none
+71;Stay the night at a nation dormitory - (score after the number of different nations);5;multiple;none
+72;Show Adrian your best impression of Poseidon in Göteborg;5;single;none
+73;Tell Nora a chemistry joke she has not heard before;5;single ;none
+74;Take the most Polish picture with Klaudia;5;single;none
+75;Say “our team is going to win this fucking competition” in Dutch to Benji;5;single;none
+76;Do a tiktok dance in front of the University library;5;single ;none
+77;"Sing karaoke with the safety person (the song has to have the word ""safe"" in it!)";5;single;none
+78;Show Marwan your best excersise move and have him rate it;5;single;none
+79;Offer someone an egg in this trying time;5;single;none
+80;Find true love;5;single;none
+81;Spot a cryptid;5;single;none
+82;Badly describe your favourite movie;5;single;none
+83;Be an adventurer, and then take an arrow to the knee;5;single;none
+84;Chubby bunny with something other than marshmellows;5;single;none
+85;Assemble the avengers;5;single;none
+86;Interpret your horoscope literally for a day;5;single;none
+87;Convince a stranger that today is Friday (Can't be done on a Friday);5;single;none
+88;Become a Disney princess;5;single;none
+89;Show off the best party trick;5;single;none
+90;Have an incredible dance-off;5;single;none
+91;Say the longest, most complicated tounge twister as fast as possible;5;single;none
+92;Find something forgotten;5;single;none
+93;Serenade a stranger;5;single;none
+94;Celebrate a national day from nationaltoday.com;5;single;none
+95;Draw the chemical structure of Maiotoxin on a blackboard;5;single;none
+96;Discover a new element;5;single;none
+97;Take a selfie with the other teams mascot (no stealing!);5;single;none
+98;Trade up;5;single;none
+99;Draw fanart of your mentors;5;single;none
+100;Show us how you would react when something is ”orimligt”;5;single;none
+101;Do something mediocre;5;single;none
+102;Build something in the LUNA minecraft server (ask Love about being whitelisted);5;single;none
+103;Make me go ugh/eww/wow;5;single;none
+104;Do a conga line in the stadspark;5;single;none
+105;Eat the domkyrka ;5;single;none
+106;Kiss a kub kung;5;single;none
+107;Eat the best lunda falafel;5;single;none
+108;Stand on two hands and sing your student council chant;5;single;none
+109;Put some lipstick on a statue / pimp a statue ;5;single;none
+110;Find your student council room and make a cup of tea ;5;single;none
+111;Take a selfie with the LUNA president;5;single;none
+112;Take a selfie with the LUNA vice president;5;single;none
+113;Take a selfie with the LUNA HCR;5;single;none
+114;Make up a sport and get outsiders to participate and compete. (At least 3 people must attend);10;single;none
+115;Raise your team's flag in a flagpole - (points for various flagpoles);10;multiple;none
+116;Bring your mascot to the lecture, it needs one!;10;single;none
+117;Eat brunch at the lecture;10;single;none
+118;Travel back to the future;10;single;none
+119;Explore the Underworld (Say hi to Hades);10;single;none
+120;Explore Heaven (Say hi to Zeus);10;single;none
+121;Find one from Gotland. (Has to be proven. Can't be part of your team!);10;single;none
+122;Organise a flash mob;10;single;none
+123;Re-Construct the game show ''Hur gör djur?'';10;single;none
+124;Take a selfie with your flag + mascot in front of a student nation! (Score after the number of nations);10;single;none
+125;Reform the legendary bird army;10;single;none
+126;Film a 30 second promotional video for a course together with a lecturer;10;single;none
+127;HARDCORE PARKOUR!;10;single;none
+128;Snorkel in the fountain. (Score after the number of fountains) (Not Lundagård);10;multiple;none
+129;Play a game with other student councils;10;single;none
+130;Build something related your theme in LEGO;10;single;none
+131;Create matter and give it to Lukas;10;single;none
+132;Submit a fan mail to a lesser known artist. (Must answer in order to get points.);10;single;none
+133;Synchronized berry picking as sport;10;single;none
+134;Find the most inventive way to use a potato ;10;single;none
+135;Create and perform the ”Novischdance”;10;single;none
+136;Make a round pizza box with a square pizza in it;10;single;none
+137;Where is the country where you bend the bananas?;10;single;none
+138;Find a valid train from Lund to the eternal leader's country;10;single;none
+139;Wear formal wear during a lecture;10;single;none
+140;Bring back dabbing;10;single;none
+141;Arrange a jousting tournament on Tornavägen;10;single;none
+142;Create a Voi-squad (at least 4 people);10;single;none
+143;Fight fire with fire;10;single;none
+144;Develop all four elements;10;single;none
+145;Find something in Lake-lake and sell it;10;single;none
+146;Sell lemonade to a duck (do not harm ducks!);10;single;none
+147;Make a sacrifice to Anders And;10;single;none
+148;Oh no! The boat is sinking and the rations are getting soaked! What should you do?;10;single;none
+149;Perform a psychological experiment (on a psychology student);10;single;none
+150;Find a philosopher and bombard them with all sorts of paradoxes until they intend to engage in violence on you personally;10;single;none
+151;Hold a lecture at EC;10;single;none
+152;Wear all 6 different kinds of lab coats at once;10;single;none
+153;Does Uppsala exist?;10;single;none
+154;Hang a (large) student council-poster on the outside of the castle;10;single;none
+155;Perform ''Härjarevisan'' to an audience not from Lund;10;single;none
+156;Play chess with death at SOL;10;single;none
+157;Have sing-together in a supermarket! (Get at least 5 non-members to sing);10;single;none
+158;Take the trolley through the Drive Through at McDonalds;10;single;none
+159;Find someone called Knut and tie him to Knut ''den stores torg'';10;single;none
+160;Create a petition to banish a harmless substance (minimum 30 signatures);10;single;none
+161;Rename ''Systembolaget'' to ''Spritbolaget'';10;single;none
+162;Yodel in a store;10;single;none
+163;Play a known scene from a drama to the public;10;single;none
+164;Equip the world with hipster glasses;10;single;none
+165;Make a Pan Galactic Gargle Blaster;10;single;none
+166;Fight the pollen! ;10;single;none
+167;Rant for 5 minutes about something completely meaningless;10;single;none
+168;Make a trailer film for your student council(s). (At least 2 minutes);10;single;none
+169;Have song duel with another team at Sjön Sjön (both teams will get points);10;single;none
+170;Stay the night outside the lecture hall (OBS! Not inside a university building);10;single;none
+171;Build any university building from lollipops;10;single;none
+172;Assassinate the LUNA president/ vice president during office hours;10;single ;none
+173;Re-create a historical process with your lecturer;10;single;none
+174;Be a youtube celebrity (minimum 302 views) must be from the novisch period;10;single;none
+175;Run a Marathon-race;10;single;none
+176;Recreate a Disney movie in 30 seconds;10;single;none
+177;Take the subway between the Maths building and the Maths Annex (There is an actual tunnel going between the two buildings that you have to find);10;single;none
+178;Perform mini sitting by Sjön Sjön (amount studentity* rewarded) * (student identity - a way of measuring how much of a student you are);10;single;none
+179;With one foot in Småland (Please note, not the nation, not the beer...);10;single;none
+180;Accelerate by the accelerator;10;single;none
+181;Perform Lunas Anthem;10;single;none
+182;Successfully host a Geologist Agility Contest (Rock Agility);10;single;none
+183;Find a way to bring the witches back from Blåkulla;10;single;none
+184;Stand quarter past at the ”quarter-past-meridian”;10;single;none
+185;Discover the secrets of Area 51;10;single;none
+186;Give FU mustard;10;single;none
+187;Become an influencer;10;single;none
+188;Scientifically prove a conspiracy theory;10;single;none
+189;Hold a powerpoint presentation about your very unusual thesis;10;single;none
+190;Get your team to the top ten most liked pictures with #studyingscienceinlund on instagram;10;single;none
+191;Eat a banana at bananparken, a pear at päronvägens lekplats, an apple at äpplehagen and a nectarine at nektarinlekplatsen ;10;single;none
+192;Find all infinity stones;10;single;none
+193;Write a love letter to LUNA;10;single;none
+194;Have an elevator picnic! ;10;single;none
+195;Drive the alligators out of Skåne;10;single;none
+196;Find a GoD and give them cheese;10;single;none
+197;"Recreate the ""running through doors"" scenes from Scooby-Doo";10;single;none
+198;"Dance ""små grodorna"" around strangers";10;single;none
+199;"Go to the ""spritbolag"" with a fake beard";10;single;none
+200;Make a wanted poster of someone in FU;10;single;none
+201;Make propaganda posters for your student council ;10;single;none
+202;Wear an ice cream like a hat;10;single;none
+203;Battle your mentors in bear pong;10;single;none
+204;Make a song about LUNA or FU and sing it at the Central station ;10;single;none
+205;Celebrate someone's birthday at a sitting or event;10;single;none
+206;Make the dark night rise;10;single;none
+207;Take a picture in a fountain like friends ;10;single;none
+208;Sing stad i ljus at a club;10;single;none
+209;Take a picture with the all the fulltimers in the same picture;10;single;none
+210;Create sculptures of the generals (life-size);15;single;none
+211;Travel abroad with the Skåne flag (bonus points if it is not Denmark);15;single;none
+212;Create and host a DnD adventure with LUNA as a main part of it;15;single;bug,
+213;Become a meme;15;single;none
+214;Flip a coin forever;15;single;none
+215;Break the 4th wall;15;single;none
+216;Walk along the tram track from Lund C to ESS (each stop is required) (not ON the track, stay safe);15;single;none
+217;Give a board to every member of the LUNA board (points only if you find them all);15;single ;none
+218;Make a (alcohol free) drink worthy of FU;15;single;none
+219;Perform miracles;15;single;none
+220;Publish a scientific article during the novisch period;15;single;none
+221;Freshen up Lake-lake;15;single;none
+222;Ask a scientific question to a relevant faculty employee, that you can solve, but they can not;15;single;none
+223;Beat Loves Super Mario Odyssey speedrun;15;single;none
+224;Paint a Lund related painting and give it to PM Minoo;15;single;none
+225;Craft PM Lina a medal to put on her tailcoat;15;single;none
+226;Create a tradition;15;single;none
+227;Find a doppelganger to each person in FU;15;single;none
+228;Get witnessed;15;single;none
+229;Book a reservation at McDonalds;15;single;none
+230;Design a new patch! (CC the email to naringsliv@luna.lu.se );15;single;none
+231;Find food which is older than the food FU have in their tailcoats;15;single;none
+232;Give Fede cheese... -;15;single;none

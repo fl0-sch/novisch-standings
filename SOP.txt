@@ -1,0 +1,46 @@
+HOW TO OPEN:
+- öppna Annaconda Prompt
+- ska nu stå '(base) C:\Users\minoo>'.
+- >cd Documents\pm , enter 
+	-alt skriv cd C:\Users\minoo\Doc..
+- >python PM_with_gui_v2.1.py , enter
+- inne :D (password: mainsequence3050)
+
+HOW TO UPDATE POINTS VIA PROGRAM:
+- open the PM program.
+- check what points need to be updated (Drive excel sheet).
+- add Quest and/or Event points
+	-mascot/bribe/pitypoints as Event
+- press 'Plot' and check that Points_plot.png is ok.
+	-alternatively check 'Show score'.
+- press Upload 
+	-all teams must have recieved points (?)
+	-there must be more than one entry
+	-NOTE: you can add empty Event entries
+	-(password: forbrf<hep4LIFE)
+- clear Chrome casche
+	-refresh the website :)
+	-can take up to 15 mins to register.
+
+HOW TO RESET:
+- In the program, click reset :)
+- add minimum two event entries where all teams get 0 points.
+- Upload
+
+
+HOW TO EDIT/CHANGE QUEST LIST:
+- open quest_list.csv with OpenOffice calc.
+- edit.
+- open the PM program, press upload.
+- clear chrome cache if necessary.
+
+
+HOW TO EDIT LUNAS WEBSITE:
+- Chrome -> lundsnaturvetarkar.se/login
+- username: Pointmaster FU , password: mainsequence3050
+- menu -> pages -> all pages.
+- search: 'quests' in searchbar for the pages.
+- select '--LUNA Novisch Period Quests |'
+- edit! as any other program.
+- to save: press 'update' in the top-right corner.
+

@@ -1,0 +1,15 @@
+List of updates without updating the .exe
+	- Changed the quests to only be crossed out when all teams have done them once
+	- Jesper updated the file such that it asks for single/multi mode and
+	BÖÖL to BUG (summer 2020)
+
+idk what to write here. stuff i changed so i know what to chcange back if it all fucks up:
+ - changed the size of the FU photo/logo so its not so fuckign massive (for my small laptop screen)
+   this was done in the line 'logo = logo.resize((435,438),Image.ANTIALIAS)'
+ - for some reason quests had decimals in list.html and on webiste so changed quest_list.csv
+   to have integers instead of general in formatting for quest_number.
+ - change the multiple quest add-on from repetition=" (Can be done multiple times by all teams!)" to repetition= "  ∞".
+ - changed the name of the website to lundsnaturvetarkar.se/quests ! no more experiments ! 
+ - changed the website a lot. made a rule doc. Changes can be seen in the wordpress history.
+ - changed float to int for quest_number in line 335 so no decimals in quest number on website! it kept coming back
+ - Discovered the upload password doesnt work. you can type anything and it accepts.
